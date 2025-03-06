@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -99,8 +98,7 @@
         <ul>
             <li><a href="#home">Beranda</a></li>
             <li><a href="#news">Berita</a></li>
-            <li><a href="#trending">Tren</a></li>
-            <li><a href="#contact">Kontak</a></li>
+            <li><a href="#contact">Tentang</a></li>
         </ul>
     </nav>
 
